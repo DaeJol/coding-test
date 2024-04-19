@@ -5,7 +5,7 @@ result = [0 for _ in range(N)]
 stack = []
 
 # towers.reverse() --> void
-# towers = reversed(towers)
+# reversed(towers) --> iterator
 # towers = towsers[::-1]
 towers.reverse()
 for idx in range(len(towers)):
