@@ -14,7 +14,7 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     <summary>Week 2</summary>
     
 ## 2024.04.22
-- [백준] 3758. KCPC
+- [백준] 14719. 빗물
     - [문제] https://www.acmicpc.net/problem/14719
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC
 
@@ -38,7 +38,7 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     <summary>Week 3</summary>
     
 ## 2024.05.01
-- [백준] 14719. 빗물
+- [백준] 3758. KCPC
     - [문제] https://www.acmicpc.net/problem/3758
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-3758-KCPC
 
