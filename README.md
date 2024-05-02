@@ -42,4 +42,9 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     - [문제] https://www.acmicpc.net/problem/3758
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-3758-KCPC
 
+## 2024.05.03
+- [백준] 13305. 주유소
+    - [문제] https://www.acmicpc.net/problem/13305
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-13305-%EC%A3%BC%EC%9C%A0%EC%86%8C
+
 </details>
