@@ -47,4 +47,8 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     - [문제] https://www.acmicpc.net/problem/13305
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-13305-%EC%A3%BC%EC%9C%A0%EC%86%8C
 
+## 2024.05.06
+- [백준] 20310. 타노스 
+    - [문제] https://www.acmicpc.net/problem/20310
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-20310-%ED%83%80%EB%85%B8%EC%8A%A4
 </details>
