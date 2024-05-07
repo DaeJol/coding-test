@@ -6,7 +6,6 @@ typeList = []
 for t in range(N):
     type, amount = list(map(str, input().split(' ')))
     typeList.append([type, int(amount)])
-typeList.sort(key=lambda x: x[1])
 
 for n in range(M):
     a = int(input().rstrip())
