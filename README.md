@@ -33,3 +33,31 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     - [문제] https://www.acmicpc.net/problem/15486
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-15486-%ED%87%B4%EC%82%AC
 </details>
+
+<details>
+    <summary>Week 3</summary>
+    
+## 2024.05.01
+- [백준] 3758. KCPC
+    - [문제] https://www.acmicpc.net/problem/3758
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-3758-KCPC
+
+## 2024.05.03
+- [백준] 13305. 주유소
+    - [문제] https://www.acmicpc.net/problem/13305
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-13305-%EC%A3%BC%EC%9C%A0%EC%86%8C
+
+## 2024.05.06
+- [백준] 20310. 타노스 
+    - [문제] https://www.acmicpc.net/problem/20310
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-20310-%ED%83%80%EB%85%B8%EC%8A%A4
+
+</details>
+
+<details>
+    <summary>Week 4</summary>
+
+## 2024.05.08
+- [백준] 19637. IF문 좀 대신 써줘 
+    - [문제] https://www.acmicpc.net/problem/19637
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-19637-IF%EB%AC%B8-%EC%A2%80-%EB%8C%80%EC%8B%A0-%EC%8D%A8%EC%A4%98
