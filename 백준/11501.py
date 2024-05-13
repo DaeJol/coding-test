@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/11501
+
 import sys
 imput = sys.stdin.readline
 
