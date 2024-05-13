@@ -70,3 +70,14 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [백준] 20006. 랭킹전 대기열
     - [문제] https://www.acmicpc.net/problem/20006
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-20006-%EB%9E%AD%ED%82%B9%EC%A0%84-%EB%8C%80%EA%B8%B0%EC%97%B4
+</details>
+
+<details>
+    <summary>Week 5</summary>
+    
+## 2024.04.22
+- [백준] 11501. 주식
+    - [문제] https://www.acmicpc.net/problem/11501
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-11501-%EC%A3%BC%EC%8B%9D
+
+</details>
