@@ -61,3 +61,12 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [백준] 19637. IF문 좀 대신 써줘 
     - [문제] https://www.acmicpc.net/problem/19637
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-19637-IF%EB%AC%B8-%EC%A2%80-%EB%8C%80%EC%8B%A0-%EC%8D%A8%EC%A4%98
+
+## 2024.05.09
+- [백준] 22233. 가희와 키워드
+    - [문제] https://www.acmicpc.net/problem/22233
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-22233-%EA%B0%80%ED%9D%AC%EC%99%80-%ED%82%A4%EC%9B%8C%EB%93%9C
+
+- [백준] 20006. 랭킹전 대기열
+    - [문제] https://www.acmicpc.net/problem/20006
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-20006-%EB%9E%AD%ED%82%B9%EC%A0%84-%EB%8C%80%EA%B8%B0%EC%97%B4
