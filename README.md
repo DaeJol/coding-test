@@ -80,4 +80,9 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     - [문제] https://www.acmicpc.net/problem/11501
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-11501-%EC%A3%BC%EC%8B%9D
 
+## 2024.04.22
+- [백준] 4358. 생태학
+    - [문제] https://www.acmicpc.net/problem/4358
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99
+
 </details>
