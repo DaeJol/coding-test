@@ -86,8 +86,7 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99
 
 ## 2024.05.17
-- [백준] 4358. 생태학
-    - [문제] https://www.acmicpc.net/problem/4358
-    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99
+- [백준] 2824. 최대공약수
+    - [문제] https://www.acmicpc.net/problem/2824
 
 </details>
