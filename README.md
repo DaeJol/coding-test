@@ -89,4 +89,7 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [백준] 2824. 최대공약수
     - [문제] https://www.acmicpc.net/problem/2824
 
+## 2024.05.19
+- [백준] 1138. 한 줄로 서기
+    - [문제] https://www.acmicpc.net/problem/1138
 </details>
