@@ -92,4 +92,8 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 ## 2024.05.19
 - [백준] 1138. 한 줄로 서기
     - [문제] https://www.acmicpc.net/problem/1138
+
+## 2024.05.20
+- [프로그래머스] 13130. 혼자 놀기의 달인
+    - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=python3
 </details>
