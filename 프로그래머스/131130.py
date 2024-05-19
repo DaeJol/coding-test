@@ -1,3 +1,6 @@
+# [프로그래머스] 131130. 혼자 놀기의 달인
+# https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=python3
+
 def solution(cards):
     groups = []
     visited = [0 for _ in range(len(cards) + 1)]
