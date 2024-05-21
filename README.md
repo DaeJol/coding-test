@@ -97,3 +97,11 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [프로그래머스] 13130. 혼자 놀기의 달인
     - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=python3
 </details>
+
+<details>
+    <summary>Week 6</summary>
+    
+## 2024.05.15
+- [프로그래머스] 84512. 모음사전
+    - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/84512
+</details>
