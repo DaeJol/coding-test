@@ -101,7 +101,11 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 <details>
     <summary>Week 6</summary>
     
-## 2024.05.15
+## 2024.05.22
 - [프로그래머스] 84512. 모음사전
     - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/84512
+    
+## 2024.05.24
+- [프로그래머스] 2725. 보이는 점의 개수
+    - [문제] https://www.acmicpc.net/problem/2725
 </details>
