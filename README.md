@@ -108,4 +108,8 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 ## 2024.05.24
 - [프로그래머스] 2725. 보이는 점의 개수
     - [문제] https://www.acmicpc.net/problem/2725
+
+## 2024.05.25
+- [프로그래머스] 1406. 에디터
+    - [문제] https://www.acmicpc.net/problem/1406
 </details>
