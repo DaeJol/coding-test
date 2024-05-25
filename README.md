@@ -70,3 +70,30 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [백준] 20006. 랭킹전 대기열
     - [문제] https://www.acmicpc.net/problem/20006
     - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-20006-%EB%9E%AD%ED%82%B9%EC%A0%84-%EB%8C%80%EA%B8%B0%EC%97%B4
+</details>
+
+<details>
+    <summary>Week 5</summary>
+    
+## 2024.05.15
+- [백준] 11501. 주식
+    - [문제] https://www.acmicpc.net/problem/11501
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-11501-%EC%A3%BC%EC%8B%9D
+
+## 2024.05.16
+- [백준] 4358. 생태학
+    - [문제] https://www.acmicpc.net/problem/4358
+    - [풀이] https://keykat.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99
+
+## 2024.05.17
+- [백준] 2824. 최대공약수
+    - [문제] https://www.acmicpc.net/problem/2824
+
+## 2024.05.19
+- [백준] 1138. 한 줄로 서기
+    - [문제] https://www.acmicpc.net/problem/1138
+
+## 2024.05.20
+- [프로그래머스] 13130. 혼자 놀기의 달인
+    - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=python3
+</details>
