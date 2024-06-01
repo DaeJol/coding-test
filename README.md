@@ -97,3 +97,19 @@ betterafter의 코딩테스트를 위한 레포지토리입니다
 - [프로그래머스] 13130. 혼자 놀기의 달인
     - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=python3
 </details>
+
+<details>
+    <summary>Week 6</summary>
+    
+## 2024.05.22
+- [프로그래머스] 84512. 모음사전
+    - [문제] https://school.programmers.co.kr/learn/courses/30/lessons/84512
+    
+## 2024.05.24
+- [프로그래머스] 2725. 보이는 점의 개수
+    - [문제] https://www.acmicpc.net/problem/2725
+
+## 2024.05.25
+- [프로그래머스] 1406. 에디터
+    - [문제] https://www.acmicpc.net/problem/1406
+</details>
