@@ -54,9 +54,6 @@ result = 1
 resultCount = 0
 for idx, number in enumerate(li):
     for prime in primes:
-        if number < prime:
-            break
-        
         if number % prime == 0:
             divMapList[idx][prime] = 0
             totalDivMap[prime] = totalDivMap.get(prime, 0)
@@ -77,7 +74,7 @@ for key, value in totalDivMap.items():
                 resultCount += value // n
             elif key in divList and divList[key] < value // n:
                 resultCount += ((value // n) - divList[key])
-        result *= key * (value // n)
+        result *= key ** (value // n)
 
 # print(divMapList)
 # print(totalDivMap)
